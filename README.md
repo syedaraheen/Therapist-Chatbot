@@ -1,6 +1,6 @@
 # 🧠 Therapist Chatbot
 
-A conversational AI chatbot designed to provide empathetic and supportive responses based on Islam, acting like a virtual therapist. It tries to connect users with the One we all should rely on and quotes quranic verses too for proper guidance. I names it Yara because it also means a friend. Built using **FastAPI**, **LLM APIs**, and **transformer-based models**.
+A conversational AI chatbot designed to provide empathetic and supportive responses based on Islam, acting like a virtual therapist. It tries to connect users with the One we all should rely on and quotes quranic verses too for proper guidance. I named it Yara because it also means a friend. I built it using **FastAPI**,**Vite**,**React** and **Json**.
 <p align="center">
   <img src="backend/Yara1.png" alt="Demo Screenshot" width="600" height="600" style="border-radius: 10px;">
 </p>
