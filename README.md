@@ -22,7 +22,6 @@ A conversational AI chatbot designed to provide empathetic and supportive respon
 
 - Python 3.10+
 - FastAPI
-- SentenceTransformers / Transformers
 - Google Generative AI API (Gemini)
 - Uvicorn
 
